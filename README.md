@@ -3,6 +3,6 @@
 W programie tym wykorzystałem:
  * własną funkcję sortująca map
 
-Link do zadania Analizator logów: [Link: https://szkopul.edu.pl/problemset/problem/alo/site/](https://szkopul.edu.pl/problemset/problem/alo/site/)
+[Link do zadania Analizator logów: https://szkopul.edu.pl/problemset/problem/alo/site/](https://szkopul.edu.pl/problemset/problem/alo/site/)
 
-Mój kod: [Kod: https://github.com/v1cauchy/p1/blob/main/analizator-logow.cpp](https://github.com/v1cauchy/p1/blob/main/analizator-logow.cpp)
+[Mój kod:: https://github.com/v1cauchy/p1/blob/main/analizator-logow.cpp](https://github.com/v1cauchy/p1/blob/main/analizator-logow.cpp)
